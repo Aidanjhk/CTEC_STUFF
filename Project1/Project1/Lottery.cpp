@@ -20,6 +20,6 @@ int main()
 	}
 	else
 	{
-		cout << "You lost the lottery; You can stay in America." << endl;
+		cout << "You lost the lottery; you can stay in America." << endl;
 	}
 }
