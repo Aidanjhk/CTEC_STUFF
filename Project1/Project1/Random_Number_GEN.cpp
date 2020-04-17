@@ -14,11 +14,11 @@ int main()
 	{
 		cout << "Correct" << endl;
 	}
-	else if (NUM > NUM2)
+	else if (NUM < NUM2)
 	{
 		cout << "To Low" << endl;
 	}
-	else if (NUM < NUM2)
+	else if (NUM > NUM2)
 	{
 		cout << "To High" << endl;
 	}
